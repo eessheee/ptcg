@@ -1,1 +1,4 @@
+ALL SunMoonBlock except Promos
 https://www.tcgplayer.com/search/pokemon/product?productLineName=pokemon&page=1&view=grid&ProductTypeName=Cards&setName=sm-crimson-invasion|sm-cosmic-eclipse|sm-unified-minds|sm-lost-thunder|sm-unbroken-bonds|sm-team-up|sm-guardians-rising|sm-celestial-storm|sm-ultra-prism|sm-burning-shadows|sm-forbidden-light|sm-base-set
+ALL "art" in SunMoonBlock
+https://www.tcgplayer.com/search/pokemon/product?productLineName=pokemon&q=art&page=1&view=grid&ProductTypeName=Cards&setName=sm-crimson-invasion|sm-cosmic-eclipse|sm-unified-minds|sm-lost-thunder|sm-unbroken-bonds|sm-team-up|sm-guardians-rising|sm-celestial-storm|sm-ultra-prism|sm-burning-shadows|sm-forbidden-light|sm-base-set&RarityName=Ultra+Rare
